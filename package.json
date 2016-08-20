@@ -1,0 +1,13 @@
+{
+  "name": "debug-logger",
+  "version": "1.0.0",
+  "description": "Debug-Logger",
+  "main": "logger.js",
+  "author": "Kilian Lütkemeyer",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+  }
+}
